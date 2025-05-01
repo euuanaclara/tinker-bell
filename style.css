@@ -1,12 +1,37 @@
-body {background-color: darkolivegreen;
+body {background-color: rgb(88, 134, 8);
 }
+
 h1 {text-align: center;
 font-size: 250%;
-color:darkred;}
-#ima1 {width: 50%;
-margin-left: 25%;
+color:rgb(0, 0, 0);}
+
+#ima1 {width: 14%;
+    margin-left: 15%;
+    }
+    
+    #ima2 {width: 14%;
+        margin-left: 15%;
+        }
+
+        #ima3 {width: 14%;
+            margin-left: 15%;
+            }    
+
+            #ima4 {width: 14%;
+                margin-left: 15%;
+                }
+
+                #ima5 {width: 14%;
+                    margin-left: 15%;
+                    }
+
+                    #ima6 {width: 14%;
+                        margin-left: 15%;
+                        }
+h3 {font-size: 210%;
+color:rgba(1, 39, 4, 0.925);
 }
-h3 {font-size: 200%;
-color:chartreuse;
-}
+h4 {font-size: 150%;
+    color:rgba(0, 0, 0, 0.925);
+    }
 
